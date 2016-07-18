@@ -1,1 +1,2 @@
 org.stagemonitor.core.CorePlugin
+org.stagemonitor.jvm.JvmPlugin
